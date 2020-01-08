@@ -1,7 +1,8 @@
-# wirelesscommunication
+# wirelesscommunication Using Zigbee API 
 
-Have to include the javax. first 
 
+!!Have to include the javax. first 
+!!Have to configure Zigbee 
 
 
 Materials used
