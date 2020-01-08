@@ -1,4 +1,9 @@
 # wirelesscommunication
+
+Have to include the javax. first 
+
+
+
 Materials used
 •Xbee radio modules with adapter boards •Bluetooth/Zigbee bridge•Arduino boards with ATMEGA328P or similar processor •Atmel Studio 6 IDE environment for AVR processors•AVRISP mkII Programmer (which is the tool to burn the code in your hardware)•LEDs (to simulate lighting control) and resistors,  •Transducers (temperature sensor), •Signal wires and USB cables.•Prototype board for connecting components •PC and/or Android smart phone with Bluetooth interface B.BackgroundA short presentation shall be given about WSN.  In addition, read the documentation provided in the previous lab. 
 
